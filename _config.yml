@@ -19,7 +19,7 @@ name: Annabel Lee
 description: >- # this means to ignore newlines until "baseurl:"
   Duke in London - Arts
 keywords: [Your keywords]
-baseurl: "/parched-innit/Jekyll-Paper" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "annieinnitgovnah.uk" # the domain name for your site, e.g. example.com
 language: en
