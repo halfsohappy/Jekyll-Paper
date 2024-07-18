@@ -13,6 +13,3 @@ So, they have bad food opinions here. Maybe that's why they characterize us as f
 
 
 {% img caption="The Waffle/Gelato Offering at an Amorino" src="/assets/images/waffles/Amorino.JPG" %}
-
-
-![Image 1](/assets/images/waffles/Amorino.JPG)
