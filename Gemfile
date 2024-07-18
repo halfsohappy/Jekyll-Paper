@@ -24,6 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-archives"
   gem "jekyll-seo-tag"
+  gem 'jekyll-gallery-generator'
   gem 'jekyll_img'
   gem "kramdown-parser-gfm"
 end
