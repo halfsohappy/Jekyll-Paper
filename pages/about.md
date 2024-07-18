@@ -4,9 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Jekyll Paper is a simple Jekyll theme, and it is aim to helping you to create your own blog by the easiest way.
-
-You can find more information in [Jekyll Paper][jekyll-paper]. If you have any questions or suggestions, you can contact me in [Jekyll Paper Issues][jekyll-paper-issues] or send email to [me](mailto:i@ghosind.com). Wish you enjoying your blog life!
-
-[jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
-[jekyll-paper-issues]: https://github.com/ghosind/Jekyll-Paper/issues
+Annabel (Annie) Lee is a tryhard from Duke University who made this website even though the assignment really only necessitated a google doc. She did this because she felt insecure about the fact that she wasn't majoring in Theater Studies like most members of Duke in London - Arts. She thought that if she used Computer Science, something she actually is majoring in, then it would make up for being less knowledgeable about theater. Whether this is working remains to be seen.

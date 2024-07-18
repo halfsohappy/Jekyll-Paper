@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your title
-email: your-email@example.com
-name: Your name
+title: Annie's Excursion Journal
+email: annie@halfsohappy.com
+name: Annabel Lee
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here.
+  Duke in London - Arts
 keywords: [Your keywords]
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/parched-innit/Jekyll-Paper" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-domain: "example.com" # the domain name for your site, e.g. example.com
+domain: "annieinnitgovnah.uk" # the domain name for your site, e.g. example.com
 language: en
 # Supported languages list:
 # en: English
@@ -70,6 +70,8 @@ plugins:
   - jekyll-archives
   - jekyll-seo-tag
 
+kramdown:
+  hard_wrap: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
