@@ -12,4 +12,4 @@ What is wrong with brits. Seriously! £5 is like $6.25. The amount of options in
 So, they have bad food opinions here. Maybe that's why they characterize us as fat -- we just have better food and so an incentive to actually eat.
 
 
-{% img caption="The Waffle/Gelato Offering at an Amorino" src="/assets/images/waffles/Amorino.JPG" %}
+{% img caption="The Waffle/Gelato Offering at an Amorino" align="left" size='20em' src="/assets/images/waffles/Amorino.JPG" %}
