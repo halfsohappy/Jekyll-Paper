@@ -13,3 +13,5 @@ So, they have bad food opinions here. Maybe that's why they characterize us as f
 
 
 {% img caption="The Waffle/Gelato Offering at an Amorino" align="left" size='20em' src="/assets/images/waffles/Amorino.JPG" %}
+
+{% img caption="The Waffle/Gelato Offering at a Jeffersons" align="right" size='20em' src="/assets/images/waffles/Jeffersons.JPG" %}
